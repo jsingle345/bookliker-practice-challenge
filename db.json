@@ -223,24 +223,9 @@
       "id": 12
     },
     {
-      "book_id": "1",
+      "book_id": "11",
       "users_id": "1",
       "id": 13
-    },
-    {
-      "book_id": "1",
-      "users_id": "1",
-      "id": 14
-    },
-    {
-      "book_id": "1",
-      "users_id": "1",
-      "id": 15
-    },
-    {
-      "book_id": "1",
-      "users_id": "1",
-      "id": 16
     }
   ],
   "users": [
